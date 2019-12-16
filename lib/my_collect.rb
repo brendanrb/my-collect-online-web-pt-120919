@@ -8,7 +8,5 @@ def my_collect(words)
 
   end 
   words
-else
-  return "Hey! No block was given!"
-end
+
 end
