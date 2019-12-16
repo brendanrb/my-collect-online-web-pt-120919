@@ -7,6 +7,6 @@ def my_collect(words)
   i =i + 1
 
   end 
-  words
+  names
 
 end
