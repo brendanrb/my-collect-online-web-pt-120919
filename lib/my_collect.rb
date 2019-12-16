@@ -3,7 +3,7 @@ def my_collect(words)
   names = []
   
   while i < words.size
-  name.push yield words[i]
+  names.push yield words[i]
   i =i + 1
 
   end 
